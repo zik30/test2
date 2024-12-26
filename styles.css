@@ -1,0 +1,14 @@
+button{
+    width: 100px;
+    height: 100px;
+}
+.fifth{
+    display: flex;
+    gap: 10px;
+}
+.fifth .block{
+    width: 100px;
+    height: 100px;
+    background-color: darkred;
+    display: none;
+}
